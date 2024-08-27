@@ -1,1 +1,1 @@
-# seminal_recipe
+# Seminal Recipe
