@@ -1,0 +1,9 @@
+name: Seminal Recipe
+description: Seminal recipe is built for Drupal 10 with rich features for faster development in component based site building.
+recipes:
+  - seminal_blocks
+  - seminal_paragraph_types
+  - seminal_content_types
+  - seminal_views
+  - seminal_contents
+  - seminal_theme

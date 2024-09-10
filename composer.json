@@ -1,0 +1,24 @@
+{
+    "name": "mvpsatyam/seminal_recipe",
+    "description": "Seminal Recipe",
+    "type": "drupal-recipe",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Satyam Prakash",
+            "email": "satyam@specbee.com"
+        }
+    ],
+    "require": {
+        "seminal/seminal_blocks": "1.x-dev",
+        "seminal/seminal_paragraph_types": "1.x-dev",
+        "seminal/seminal_content_types": "1.x-dev",
+        "seminal/seminal_views": "1.x-dev",
+        "seminal/seminal_contents": "1.x-dev",
+        "seminal/seminal_theme": "1.x-dev"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev"
+}
